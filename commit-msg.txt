@@ -1,5 +1,0 @@
-feat: add weave-codec-lz4 extension
-
-Implement the raw stdin/stdout LZ4 codec protocol, capability manifest,
-version/describe output, bounded atomic encoding, tests, BDD scenarios,
-user-level installers and release/CI workflows.
