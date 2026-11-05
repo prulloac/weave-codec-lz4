@@ -1,0 +1,4 @@
+/dist/
+/weave-codec-lz4
+/weave-codec-lz4.exe
+*.test
