@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -eu
 
 REPO="prulloac/weave-codec-lz4"
 BINARY="weave-codec-lz4"
