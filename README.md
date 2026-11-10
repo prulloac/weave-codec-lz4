@@ -82,6 +82,12 @@ go build -o weave-codec-lz4 .
 Behavior examples live in [`docs/bdd/codec.md`](docs/bdd/codec.md). The authoritative contract is
 [`codec-extensions.md`](https://github.com/prulloac/weave-docs/blob/main/specs/codec-extensions.md).
 
+## Issues
+
+This repository does not accept issues. Report first-party defects and documentation errors in
+[`prulloac/weave`](https://github.com/prulloac/weave/issues/new/choose); security reports use private
+vulnerability reporting there.
+
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
