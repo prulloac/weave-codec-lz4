@@ -64,7 +64,7 @@ Manifest:
   "v": "weave.extension/v1",
   "name": "lz4",
   "kind": "codec",
-  "version": "v0.7.0",
+  "version": "v0.8.0",
   "directions": ["compress", "decompress"],
   "frame": true
 }
